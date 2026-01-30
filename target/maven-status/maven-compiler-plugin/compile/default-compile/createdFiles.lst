@@ -1,0 +1,6 @@
+com/devops/demo/DemoApplication.class
+com/devops/demo/HomeController.class
+com/devops/demo/controller/UserController.class
+com/devops/demo/model/User.class
+com/devops/App.class
+com/devops/demo/repository/UserRepository.class
