@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.*;  // RestController, RequestMap
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+@CrossOrigin(origins = "http://localhost:9095")
 @RestController
 @RequestMapping("/api")
 public class UserController {
