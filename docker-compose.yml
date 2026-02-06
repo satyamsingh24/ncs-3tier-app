@@ -8,11 +8,11 @@ services:
     ports:
       - "8085:8085"
     depends_on:
-      - mongo
+      - mongodb
     environment:
       SPRING_DATA_MONGODB_URI: mongodb://mongodb:27017/demo_db
 
-  mongo:
+  mongodb:
     image: mongo:7
     container_name: mongodb
     ports:
