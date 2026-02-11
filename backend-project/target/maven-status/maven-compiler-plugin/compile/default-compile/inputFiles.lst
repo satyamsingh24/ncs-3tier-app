@@ -1,0 +1,7 @@
+/home/ec2-user/ncs-3tier-app/src/main/java/com/devops/demo/DemoApplication.java
+/home/ec2-user/ncs-3tier-app/src/main/java/com/devops/demo/config/SecurityConfig.java
+/home/ec2-user/ncs-3tier-app/src/main/java/com/devops/demo/model/User.java
+/home/ec2-user/ncs-3tier-app/src/main/java/com/devops/demo/repository/UserRepository.java
+/home/ec2-user/ncs-3tier-app/src/main/java/com/devops/demo/controller/UserController.java
+/home/ec2-user/ncs-3tier-app/src/main/java/com/devops/App.java
+/home/ec2-user/ncs-3tier-app/src/main/java/com/devops/demo/controller/HomeController.java
